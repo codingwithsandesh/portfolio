@@ -212,18 +212,6 @@ This project provided practical experience in:
 - Frontend-backend communication
 - Application testing and debugging
 
-## 👨‍💻 Developer
-
-**Sandesh J. Heda**
-
-BCA – Data Science  
-R.A. College, Washim  
-Sant Gadge Baba Amravati University
-
-- GitHub: YOUR_GITHUB_PROFILE
-- LinkedIn: YOUR_LINKEDIN_PROFILE
-- Portfolio: YOUR_DEMO_LINK_HERE
-
 ## 📄 Internship Task
 
 **Task:** Personal Portfolio Website  
