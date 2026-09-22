@@ -4,7 +4,7 @@ A professional full-stack personal portfolio website developed to showcase my pr
 
 ## 🌐 Demo
 
-Live Demo: task1-personal-portfolio.netlify.app
+🌐 **Live Demo:** [View Website](https://task1-personal-portfolio.netlify.app/)
 
 ## 📌 Project Overview
 
